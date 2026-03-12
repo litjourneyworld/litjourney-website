@@ -1,6 +1,7 @@
 "use client";
 
 import Nav from "@/components/Nav";
+import PartnerMarquee from "@/components/PartnerMarquee";
 
 export default function Home() {
   return (
@@ -48,6 +49,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <PartnerMarquee />
 
       {/* WHO WE ARE */}
       <section id="about" className="py-[100px] px-6 md:px-12 bg-light text-black">
