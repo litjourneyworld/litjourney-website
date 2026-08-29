@@ -7,7 +7,8 @@ const brands = [
   { name: "Freesun", category: "Water Sports", logo: "/logos/freesun.png", bg: "#FF4500" },
   { name: "KuKirin", category: "E-Scooters", logo: "/logos/kukirin.png", bg: "#ffffff" },
   { name: "Lawaken", category: "Smart Wearables", logo: "/logos/lawaken.png", bg: "#ffffff" },
-  { name: "QIDI Vida", category: "Lifestyle Tech", logo: "/logos/qidivida.png", bg: "#ffffff" },
+  { name: "HoloSport", category: "AR/AI Eyewear", logo: "/logos/holosport.png", bg: "#ffffff" },
+  { name: "318", category: "PTT Walkie-Talkie", logo: "/logos/318.png", bg: "#ffffff" },
 ];
 
 export default function PartnerMarquee() {
